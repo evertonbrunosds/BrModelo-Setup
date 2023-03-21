@@ -1,0 +1,10 @@
+Package:brmodelo
+Version:3.31
+Architecture:all
+Maintainer:Carlos Henrique Cândido
+Homepage:http://www.sis4.com/brModelo/
+Installed-Size:1376
+Pre-Depends:default-jre | default-jdk | jdk-11
+Priority:optional
+Section:dev
+Description:Modelagem de Banco de Dados

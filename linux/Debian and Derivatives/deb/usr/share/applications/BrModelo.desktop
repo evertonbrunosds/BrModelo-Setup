@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=BrModelo v3.31
+Icon=/opt/brmodelo/brmodelo.png
+Type=Application
+Categories=Development
+Exec=java -jar /opt/brmodelo/brmodelo.jar
+StartupNotify=false
+Terminal=false
+Comment=Modelagem de Banco de Dados
